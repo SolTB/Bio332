@@ -22,3 +22,5 @@ Step 8. Upload each Nexus file individually to PAUP to calculate trees using the
 Step 9. Download trees as .tre files and upload .tre files to respective Mesquite files.
 
 Step 10. Compare outputs.
+
+See powerpoint for more information about the background and results of this project.
